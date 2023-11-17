@@ -47,3 +47,6 @@ The customer churn prediction model is built using a Keras MLP. Training involve
 Dependents,	PhoneService,	MultipleLines,	etc.
 
 ```
+## Link to Deployed model Demo
+```https://youtu.be/ZofUujaghmE
+    ```
