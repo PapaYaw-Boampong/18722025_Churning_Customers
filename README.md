@@ -46,7 +46,7 @@ Streamlit is used for deploying the model in an interactive and user-friendly ma
 The customer churn prediction model is built using a Keras MLP. Training involves labeled data with features such as gender,	Partner,
 Dependents,	PhoneService,	MultipleLines,	etc.
 
-```
+
 ## Link to Deployed model Demo
 ```https://youtu.be/ZofUujaghmE
     ```
