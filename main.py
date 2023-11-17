@@ -91,6 +91,9 @@ def run():
             st.success("The profile is predicted to stay.")
         else:
             st.error("The profile is predicted to churn.")
+        confidence_level = prediction[0][0] if prediction.shape[1] > 1 else prediction[0]
+        result = 'Confidence level of {:.2%}.'.format(confidence_level.item())
+        st.write(result)
 
 
 # Run the app
