@@ -48,5 +48,6 @@ Dependents,	PhoneService,	MultipleLines,	etc.
 
 
 ## Link to Deployed model Demo
-```https://youtu.be/ZofUujaghmE
-    ```
+```
+https://youtu.be/ZofUujaghmE
+```
